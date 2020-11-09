@@ -1,0 +1,45 @@
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\bin\Debug\Aigel OS.exe
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\bin\Debug\Aigel OS.pdb
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\bin\Debug\Aigel OS.xml
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\bin\Debug\Interop.WIA.dll
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\bin\Debug\AxInterop.WIA.dll
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Interop.WIA.dll
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\AxInterop.WIA.dll
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel OS.vbproj.ResolveComReference.cache
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel_OS.Form1.resources
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel_OS.Resources.resources
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel OS.vbproj.GenerateResource.Cache
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel OS.exe
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel OS.xml
+C:\Users\Axel\AppData\Local\Temporary Projects\Aigel OS\obj\x86\Debug\Aigel OS.pdb
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Interop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\AxInterop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel OS.vbproj.ResolveComReference.cache
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel OS.exe
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel OS.xml
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel OS.pdb
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\Aigel OS.exe
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\Aigel OS.pdb
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\Aigel OS.xml
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\Interop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\AxInterop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Resources.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel OS.vbproj.GenerateResource.Cache
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Aigel.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Load.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Calculatrice.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Image_Viewer.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Naviguateur_Web.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Tache.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Video.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Musique.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Calendrier.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Debug\Aigel OS.exe.config
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Activation.resources
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Parametre.resources
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.Cebard_Game.resources
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Debug\Aigel_OS.StickNote.resources

@@ -1,0 +1,30 @@
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\Aigel OS.exe
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\Aigel OS.pdb
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\Aigel OS.xml
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\Interop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\Interop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\AxInterop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Interop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\AxInterop.WIA.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel OS.vbproj.ResolveComReference.cache
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Aigel.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Calculatrice.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Calendrier.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Image_Viewer.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Load.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Musique.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Resources.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Naviguateur_Web.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Tache.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Video.resources
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel OS.vbproj.GenerateResource.Cache
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel OS.exe
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel OS.xml
+C:\Users\Axel\documents\visual studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel OS.pdb
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\bin\Release\Aigel OS.exe.config
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Activation.resources
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Parametre.resources
+C:\Users\Axel\Documents\Visual Studio 2010\Projects\Aigel OS\Aigel OS\obj\x86\Release\Aigel_OS.Cebard_Game.resources
